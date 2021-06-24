@@ -1,4 +1,0 @@
-{
-"item_name": "movies",
-"question": "Who directed {}?"
-}

@@ -1,0 +1,10 @@
+{
+"item_name": "names",
+"question": "Who is {}?",
+"data": """
+Rikai; David
+DanPan; Daniela
+Deimer; Deimer
+Zonnorz; Sara
+"""
+}
