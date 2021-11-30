@@ -1,0 +1,119 @@
+{
+"item_name": "words",
+"question": "What does {} mean?",
+"data": """
+あい ; amor
+あお ; azul
+あか ; rojo
+あめ ; lluvia, caramelo, dulce
+いいえ ; no
+いえ ; casa, hogar
+いし ; piedra, roca
+いしゃ ; médico, doctor
+いと ; hilo
+いぬ ; perro
+いもうと ; hermana menor
+うえ ; arriba, encima
+うし ; vaca
+え ; pintura, dibujo
+えき ; estación de tren, estación de trenes
+えんぴつ ; lápiz
+おかあさん ; madre, mamá
+おちゃ ; té, té verde
+おとうさん ; padre, papá
+おとうと ; hermano menor
+おにいさん ; hermano mayor
+おねえさん ; hermana mayor
+おふろ, ふろ ; baño
+おへそ, へそ ; ombligo
+がいこくじん, がいじん ; extranjero
+かいしゃ ; empresa, compañía, firma
+かいしゃいん ; empleado de una empresa, empleado de empresa
+かぎ ; llave, clave
+かさ ; sombrilla
+かしゅ ; cantante
+がっこう ; escuela, colegio
+かみ ; papel
+きく ; escuchar
+きのこ ; champiñón
+きゃべつ ; repollo
+きょう ; hoy
+くうこう ; aeropuerto
+くち ; boca
+けいたい ; celular
+こえ ; voz
+ここ ; aquí, acá, este lugar
+さけ ; bebida alcohólica, salmón
+さっか ; novelista, escritor
+ざっし ; revista
+さんびゃく ; 300
+しゃちょう ; presidente de una empresa, presidente de empresa, CEO
+じゃんけん ; Piedra, papel o tijera
+じゅぎょう ; clase
+しゅくだい ; tarea, deberes
+じょうぎ ; regla
+しょうゆ ; salsa de soja
+すいか ; sandía
+せいと ; alumno, estudiante
+せかい ; mundo
+せんせい ; maestro
+せんぶ ; todo
+そこ ; ahí, allá
+それ ; eso
+たこ ; pulpo, cometa
+ちず ; mapa
+つき ; luna
+て ; mano, brazo
+でんわ ; teléfono
+ともだち ; amigo, amiga, amigos, amigas
+とら ; tigre
+とり ; pájaro, ave
+なす ; berenjena
+にく ; carne
+にっき ; diario
+にほん ; Japón
+にほんご ; Idioma japonés, japonés
+にほんじん ; persona japonesa, japonés
+にゅういん ; hospitalización
+ねこ ; gato
+はさみ ; tijeras
+はっぴょう ; presentación
+はな ; flor, nariz
+ばんごう ; número
+ひ ; día, sol, fuego
+ひげ ; barba, bigote
+ひゃく ; cien, 100
+びょういん ; hospital
+びよういん ; salón de belleza, peluquería
+ひよこ ; pollito
+びん ; botella
+ふくしゅう ; repaso
+ふね ; barco
+へいわ ; paz
+ほし ; estrella
+ほしい ; desear
+ほん ; libro
+まがる ; girar
+まち ; población, pueblo, población (normalmente se refiere a ciudades no muy grandes)
+まど ; ventana
+みち ; calle, camino
+みょうじ ; apellido
+みる ; ver, mirar
+むし ; insecto
+もっと ; más
+もも ; durazno, muslo
+やかん ; tetera
+やま ; montaña
+ゆき ; nieve
+ゆっくり ; despacio
+ゆめ ; sueño
+よい ; bueno, bien, felicidad
+りす ; ardilla
+りゅう ; dragón
+りょうしん ; padres
+りょこう ; viaje
+れんしゅう ; práctica
+わたし ; yo
+わに ; cocodrilo, caimán
+"""
+}

@@ -1,0 +1,8 @@
+{
+"item_name": "colors",
+"question": "What color is {}?",
+"data": """
+#FFFFFF; White
+#000000; Black
+"""
+}
